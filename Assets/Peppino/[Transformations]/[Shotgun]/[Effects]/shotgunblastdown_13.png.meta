@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 615361dfe4ce27a47ae70a7cce6ccbc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -658634637967650560
+    second: shotgunblastdown_13_0
+  - first:
+      213: -1354255456411166253
+    second: shotgunblastdown_13_1
+  - first:
+      213: 2400143686222390739
+    second: shotgunblastdown_13_2
+  - first:
+      213: 5707548926754229272
+    second: shotgunblastdown_13_3
+  - first:
+      213: -6920929950866512309
+    second: shotgunblastdown_13_4
+  - first:
+      213: -1832899530170883417
+    second: shotgunblastdown_13_5
+  - first:
+      213: 6019665779503260366
+    second: shotgunblastdown_13_6
+  - first:
+      213: 296316720249379611
+    second: shotgunblastdown_13_7
+  - first:
+      213: -533729287201830227
+    second: shotgunblastdown_13_8
+  - first:
+      213: 4924365669852020251
+    second: shotgunblastdown_13_9
+  - first:
+      213: 6747387476340569289
+    second: shotgunblastdown_13_10
+  - first:
+      213: 7088060554894009802
+    second: shotgunblastdown_13_11
+  - first:
+      213: 4265936634072220919
+    second: shotgunblastdown_13_12
+  - first:
+      213: 5942789833481853925
+    second: shotgunblastdown_13_13
+  - first:
+      213: 3632390298532071493
+    second: shotgunblastdown_13_14
+  - first:
+      213: -7060410024242060572
+    second: shotgunblastdown_13_15
+  - first:
+      213: -6956563265310793652
+    second: shotgunblastdown_13_16
+  - first:
+      213: 5052530723007944902
+    second: shotgunblastdown_13_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shotgunblastdown_13_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0019b2f494f0cd6f0800000000000000
+      internalID: -658634637967650560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 292
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95a7966d7b43de0800000000000000
+      internalID: -1354255456411166253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 277
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5ae2357f50f4120800000000000000
+      internalID: 2400143686222390739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 260
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c095d4289453f40800000000000000
+      internalID: 5707548926754229272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b466d3bd0eae3ff90800000000000000
+      internalID: -6920929950866512309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 215
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a22f23a69b3096e0800000000000000
+      internalID: -1832899530170883417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 197
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2edd502262a8350800000000000000
+      internalID: 6019665779503260366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b1973bc7abc1400800000000000000
+      internalID: 296316720249379611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daacc168a00d798f0800000000000000
+      internalID: -533729287201830227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 158
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e78af7c7cd65440800000000000000
+      internalID: 4924365669852020251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4f239192983ad50800000000000000
+      internalID: 6747387476340569289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 146
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac56ae04589dd5260800000000000000
+      internalID: 7088060554894009802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 146
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4433c44c6a33b30800000000000000
+      internalID: 4265936634072220919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 129
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb1d770ed7097250800000000000000
+      internalID: 5942789833481853925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54844953bb7d86230800000000000000
+      internalID: 3632390298532071493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e1789d72640e90800000000000000
+      internalID: -7060410024242060572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c406e915192557f90800000000000000
+      internalID: -6956563265310793652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblastdown_13_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8d2a15ce13e1640800000000000000
+      internalID: 5052530723007944902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shotgunblastdown_13_0: -658634637967650560
+      shotgunblastdown_13_1: -1354255456411166253
+      shotgunblastdown_13_10: 6747387476340569289
+      shotgunblastdown_13_11: 7088060554894009802
+      shotgunblastdown_13_12: 4265936634072220919
+      shotgunblastdown_13_13: 5942789833481853925
+      shotgunblastdown_13_14: 3632390298532071493
+      shotgunblastdown_13_15: -7060410024242060572
+      shotgunblastdown_13_16: -6956563265310793652
+      shotgunblastdown_13_17: 5052530723007944902
+      shotgunblastdown_13_2: 2400143686222390739
+      shotgunblastdown_13_3: 5707548926754229272
+      shotgunblastdown_13_4: -6920929950866512309
+      shotgunblastdown_13_5: -1832899530170883417
+      shotgunblastdown_13_6: 6019665779503260366
+      shotgunblastdown_13_7: 296316720249379611
+      shotgunblastdown_13_8: -533729287201830227
+      shotgunblastdown_13_9: 4924365669852020251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: b50c615149b475a4ba267de2eca2d981
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5197287859366284774
+    second: shotgunblast_10_0
+  - first:
+      213: 2473960018046838543
+    second: shotgunblast_10_1
+  - first:
+      213: 967018496301119880
+    second: shotgunblast_10_2
+  - first:
+      213: -449584336667511123
+    second: shotgunblast_10_3
+  - first:
+      213: 289482157391244379
+    second: shotgunblast_10_4
+  - first:
+      213: -1908647026218743325
+    second: shotgunblast_10_5
+  - first:
+      213: -3287542992247505302
+    second: shotgunblast_10_6
+  - first:
+      213: -8213358002953587320
+    second: shotgunblast_10_7
+  - first:
+      213: -2853843926458966375
+    second: shotgunblast_10_8
+  - first:
+      213: -5845206228327039857
+    second: shotgunblast_10_9
+  - first:
+      213: -6582183322783339572
+    second: shotgunblast_10_10
+  - first:
+      213: -8894275660604002022
+    second: shotgunblast_10_11
+  - first:
+      213: 3957303942721164937
+    second: shotgunblast_10_12
+  - first:
+      213: 8885705973046759490
+    second: shotgunblast_10_13
+  - first:
+      213: 8367173600359062135
+    second: shotgunblast_10_14
+  - first:
+      213: -5728800034758987853
+    second: shotgunblast_10_15
+  - first:
+      213: 2575941617572043586
+    second: shotgunblast_10_16
+  - first:
+      213: -5757877349279209829
+    second: shotgunblast_10_17
+  - first:
+      213: -6318632208228369340
+    second: shotgunblast_10_18
+  - first:
+      213: 8686517855101616910
+    second: shotgunblast_10_19
+  - first:
+      213: -5887009298418812738
+    second: shotgunblast_10_20
+  - first:
+      213: -8678972582762395326
+    second: shotgunblast_10_21
+  - first:
+      213: -8401913772618195670
+    second: shotgunblast_10_22
+  - first:
+      213: -3616660054137935360
+    second: shotgunblast_10_23
+  - first:
+      213: -7593490171018962820
+    second: shotgunblast_10_24
+  - first:
+      213: 8290011051612612713
+    second: shotgunblast_10_25
+  - first:
+      213: -7428759551816536834
+    second: shotgunblast_10_26
+  - first:
+      213: 8042438074766294741
+    second: shotgunblast_10_27
+  - first:
+      213: 2883497739036111911
+    second: shotgunblast_10_28
+  - first:
+      213: 3195280146062369960
+    second: shotgunblast_10_29
+  - first:
+      213: 3345422517911156297
+    second: shotgunblast_10_30
+  - first:
+      213: -5439013598352690419
+    second: shotgunblast_10_31
+  - first:
+      213: -4982056273380513955
+    second: shotgunblast_10_32
+  - first:
+      213: 5406856013139875989
+    second: shotgunblast_10_33
+  - first:
+      213: -1884521557735845438
+    second: shotgunblast_10_34
+  - first:
+      213: 7158381779569755105
+    second: shotgunblast_10_35
+  - first:
+      213: 6704670525573284184
+    second: shotgunblast_10_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shotgunblast_10_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 145
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed4afc85c9702840800000000000000
+      internalID: 5197287859366284774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 167
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0763306785455220800000000000000
+      internalID: 2473960018046838543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 164
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889b24be23a8b6d00800000000000000
+      internalID: 967018496301119880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da67a548d61c2c9f0800000000000000
+      internalID: -449584336667511123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 141
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c6e180d72740400800000000000000
+      internalID: 289482157391244379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 141
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e940a064af1385e0800000000000000
+      internalID: -1908647026218743325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e3343111d4062d0800000000000000
+      internalID: -3287542992247505302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 136
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885f6dc996a440e80800000000000000
+      internalID: -8213358002953587320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 143
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ed107b11c1568d0800000000000000
+      internalID: -2853843926458966375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 123
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c7aa197e7a1eea0800000000000000
+      internalID: -5845206228327039857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbaffe442367a4a0800000000000000
+      internalID: -6582183322783339572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 125
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11bb4b196f219480800000000000000
+      internalID: -8894275660604002022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 125
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986d52e18fa2be630800000000000000
+      internalID: 3957303942721164937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d406018e505b70800000000000000
+      internalID: 8885705973046759490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 110
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a9d6fee0c2e1470800000000000000
+      internalID: 8367173600359062135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 109
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfe1fa88b63f70b0800000000000000
+      internalID: -5728800034758987853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bd685d0459fb320800000000000000
+      internalID: 2575941617572043586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 93
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e1ffae09e710b0800000000000000
+      internalID: -5757877349279209829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 93
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cb432fb75bf48a0800000000000000
+      internalID: -6318632208228369340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 90
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e038b6057f5bc8870800000000000000
+      internalID: 8686517855101616910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8335adb342d4ea0800000000000000
+      internalID: -5887009298418812738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 106
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c71d4b681e8780800000000000000
+      internalID: -8678972582762395326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d51a560f7666b80800000000000000
+      internalID: -8401913772618195670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 76
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a63c7b7da0fcdc0800000000000000
+      internalID: -3616660054137935360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 81
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c789ef6ebe08e9690800000000000000
+      internalID: -7593490171018962820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968ae6b01290c0370800000000000000
+      internalID: 8290011051612612713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 84
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc6f200c8eb7e890800000000000000
+      internalID: -7428759551816536834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de758e71da7c9f60800000000000000
+      internalID: 8042438074766294741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 72
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724b3ed8aed340820800000000000000
+      internalID: 2883497739036111911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4e7ef0d5ae75c20800000000000000
+      internalID: 3195280146062369960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 68
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ffa32e045d6e20800000000000000
+      internalID: 3345422517911156297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d033bad03fdb484b0800000000000000
+      internalID: -5439013598352690419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 67
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e526273e2cdab0800000000000000
+      internalID: -4982056273380513955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 62
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59813eea5e2090b40800000000000000
+      internalID: 5406856013139875989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 51
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1d69bb0a5d8d5e0800000000000000
+      internalID: -1884521557735845438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e342e14d4ea75360800000000000000
+      internalID: 7158381779569755105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgunblast_10_36
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 49
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851c3d4f156cb0d50800000000000000
+      internalID: 6704670525573284184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shotgunblast_10_0: 5197287859366284774
+      shotgunblast_10_1: 2473960018046838543
+      shotgunblast_10_10: -6582183322783339572
+      shotgunblast_10_11: -8894275660604002022
+      shotgunblast_10_12: 3957303942721164937
+      shotgunblast_10_13: 8885705973046759490
+      shotgunblast_10_14: 8367173600359062135
+      shotgunblast_10_15: -5728800034758987853
+      shotgunblast_10_16: 2575941617572043586
+      shotgunblast_10_17: -5757877349279209829
+      shotgunblast_10_18: -6318632208228369340
+      shotgunblast_10_19: 8686517855101616910
+      shotgunblast_10_2: 967018496301119880
+      shotgunblast_10_20: -5887009298418812738
+      shotgunblast_10_21: -8678972582762395326
+      shotgunblast_10_22: -8401913772618195670
+      shotgunblast_10_23: -3616660054137935360
+      shotgunblast_10_24: -7593490171018962820
+      shotgunblast_10_25: 8290011051612612713
+      shotgunblast_10_26: -7428759551816536834
+      shotgunblast_10_27: 8042438074766294741
+      shotgunblast_10_28: 2883497739036111911
+      shotgunblast_10_29: 3195280146062369960
+      shotgunblast_10_3: -449584336667511123
+      shotgunblast_10_30: 3345422517911156297
+      shotgunblast_10_31: -5439013598352690419
+      shotgunblast_10_32: -4982056273380513955
+      shotgunblast_10_33: 5406856013139875989
+      shotgunblast_10_34: -1884521557735845438
+      shotgunblast_10_35: 7158381779569755105
+      shotgunblast_10_36: 6704670525573284184
+      shotgunblast_10_4: 289482157391244379
+      shotgunblast_10_5: -1908647026218743325
+      shotgunblast_10_6: -3287542992247505302
+      shotgunblast_10_7: -8213358002953587320
+      shotgunblast_10_8: -2853843926458966375
+      shotgunblast_10_9: -5845206228327039857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

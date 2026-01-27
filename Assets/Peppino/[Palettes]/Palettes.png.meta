@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: 2a8e8111e35f3564b9da8519878a03ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2247042296347973070
+    second: Palettes_0
+  - first:
+      213: 970790493267559382
+    second: Palettes_1
+  - first:
+      213: -7584028112203310865
+    second: Palettes_2
+  - first:
+      213: 3753652525145095340
+    second: Palettes_3
+  - first:
+      213: -3946437430084772156
+    second: Palettes_4
+  - first:
+      213: 2844881034565649495
+    second: Palettes_5
+  - first:
+      213: 5778756078752452576
+    second: Palettes_6
+  - first:
+      213: -2163589800376175051
+    second: Palettes_7
+  - first:
+      213: -6904994089730954253
+    second: Palettes_8
+  - first:
+      213: 4766964584933665335
+    second: Palettes_9
+  - first:
+      213: -173214107889719070
+    second: Palettes_10
+  - first:
+      213: -3632970795576504450
+    second: Palettes_11
+  - first:
+      213: 8706369025643442564
+    second: Palettes_12
+  - first:
+      213: 5731956612212384121
+    second: Palettes_13
+  - first:
+      213: 1946520836327202348
+    second: Palettes_14
+  - first:
+      213: -4708892043748811050
+    second: Palettes_15
+  - first:
+      213: 1862493812011464591
+    second: Palettes_16
+  - first:
+      213: 1231955271470850691
+    second: Palettes_17
+  - first:
+      213: 5982303922495479183
+    second: Palettes_18
+  - first:
+      213: 6279182737494650485
+    second: Palettes_19
+  - first:
+      213: 6743475417939276434
+    second: Palettes_20
+  - first:
+      213: -5545319792186087425
+    second: Palettes_21
+  - first:
+      213: 2222631513477326668
+    second: Palettes_22
+  - first:
+      213: 7230245309758306015
+    second: Palettes_23
+  - first:
+      213: 8519609233122951856
+    second: Palettes_24
+  - first:
+      213: -6607626460483087695
+    second: Palettes_25
+  - first:
+      213: 5068858595839631147
+    second: Palettes_26
+  - first:
+      213: -3672287213302950449
+    second: Palettes_27
+  - first:
+      213: 3224373988853957347
+    second: Palettes_28
+  - first:
+      213: -3654067499580510579
+    second: Palettes_29
+  - first:
+      213: -337380910701546001
+    second: Palettes_30
+  - first:
+      213: 7550096510101413229
+    second: Palettes_31
+  - first:
+      213: -8014281267829405742
+    second: Palettes_32
+  - first:
+      213: 9057916664402902017
+    second: Palettes_33
+  - first:
+      213: 7020400694610834204
+    second: Palettes_34
+  - first:
+      213: -2118182806386781851
+    second: Palettes_35
+  - first:
+      213: 6070215024383056953
+    second: Palettes_36
+  - first:
+      213: -68464440571986889
+    second: Palettes_37
+  - first:
+      213: -133494008469079586
+    second: Palettes_38
+  - first:
+      213: -7199622854931938449
+    second: Palettes_39
+  - first:
+      213: 7665767607242499440
+    second: Palettes_40
+  - first:
+      213: 7295379071530782660
+    second: Palettes_41
+  - first:
+      213: 7970767443617313377
+    second: Palettes_42
+  - first:
+      213: 392755104437698461
+    second: Palettes_43
+  - first:
+      213: 789126093861246589
+    second: Palettes_44
+  - first:
+      213: -7530687869875375983
+    second: Palettes_45
+  - first:
+      213: 1504203543656391914
+    second: Palettes_46
+  - first:
+      213: -8734176930216497834
+    second: Palettes_47
+  - first:
+      213: 6576513513833383074
+    second: Palettes_48
+  - first:
+      213: 4786888232985788859
+    second: Palettes_49
+  - first:
+      213: 6958032695671498396
+    second: Palettes_50
+  - first:
+      213: -4243919269239821089
+    second: Palettes_51
+  - first:
+      213: -4550705509844600888
+    second: Palettes_52
+  - first:
+      213: 7887251593460330958
+    second: Palettes_53
+  - first:
+      213: -9031249230747626836
+    second: Palettes_54
+  - first:
+      213: 2932101547236521835
+    second: Palettes_55
+  - first:
+      213: 180905173925129182
+    second: Palettes_56
+  - first:
+      213: -1557324535318635794
+    second: Palettes_57
+  - first:
+      213: -8659433813287426038
+    second: Palettes_58
+  - first:
+      213: 4112505242296543076
+    second: Palettes_59
+  - first:
+      213: -5003792427265197782
+    second: Palettes_60
+  - first:
+      213: 668989055760368611
+    second: Palettes_61
+  - first:
+      213: -8267098916769366803
+    second: Palettes_62
+  - first:
+      213: 1383987955917977389
+    second: Palettes_63
+  - first:
+      213: 317298339211367229
+    second: Palettes_64
+  - first:
+      213: -8216063185952424813
+    second: Palettes_65
+  - first:
+      213: -206608743880231597
+    second: Palettes_66
+  - first:
+      213: -8360945962891855758
+    second: Palettes_67
+  - first:
+      213: -7760515683093871247
+    second: Palettes_68
+  - first:
+      213: 2185049992534204602
+    second: Palettes_69
+  - first:
+      213: 2737780155535286535
+    second: Palettes_70
+  - first:
+      213: 3987367072198790576
+    second: Palettes_71
+  - first:
+      213: 8859907652706427504
+    second: Palettes_72
+  - first:
+      213: 969963806850002184
+    second: Palettes_73
+  - first:
+      213: 4304497370940732616
+    second: Palettes_74
+  - first:
+      213: 2113112482742001077
+    second: Palettes_75
+  - first:
+      213: -5893662026774377455
+    second: Palettes_76
+  - first:
+      213: 6629252036520800410
+    second: Palettes_77
+  - first:
+      213: 8217634651565832549
+    second: Palettes_78
+  - first:
+      213: 4015086356110615232
+    second: Palettes_79
+  - first:
+      213: 3114422475379546194
+    second: Palettes_80
+  - first:
+      213: 5747578320939266073
+    second: Palettes_81
+  - first:
+      213: -1973437367791525738
+    second: Palettes_82
+  - first:
+      213: 4491117033220784534
+    second: Palettes_83
+  - first:
+      213: -6059414582819478443
+    second: Palettes_84
+  - first:
+      213: -8945900136854889247
+    second: Palettes_85
+  - first:
+      213: 3601387769952216699
+    second: Palettes_86
+  - first:
+      213: -8201066508581107932
+    second: Palettes_87
+  - first:
+      213: -7010547888257737563
+    second: Palettes_88
+  - first:
+      213: 9085802352063837863
+    second: Palettes_89
+  - first:
+      213: 124560387637161176
+    second: Palettes_90
+  - first:
+      213: 6013662701289235905
+    second: Palettes_91
+  - first:
+      213: 7682326443263710401
+    second: Palettes_92
+  - first:
+      213: -4499934066497395706
+    second: Palettes_93
+  - first:
+      213: -7191899647275248698
+    second: Palettes_94
+  - first:
+      213: -2926408954844501797
+    second: Palettes_95
+  - first:
+      213: 5425769472769611892
+    second: Palettes_96
+  - first:
+      213: 9014033152727822354
+    second: Palettes_97
+  - first:
+      213: -7066762984162553629
+    second: Palettes_98
+  - first:
+      213: 7858984613939957731
+    second: Palettes_99
+  - first:
+      213: 8092087611719496312
+    second: Palettes_100
+  - first:
+      213: -4533165886493904183
+    second: Palettes_101
+  - first:
+      213: 7120477911968093532
+    second: Palettes_102
+  - first:
+      213: -6305635932259724626
+    second: Palettes_103
+  - first:
+      213: -5604065934570755887
+    second: Palettes_104
+  - first:
+      213: 1469449779634798195
+    second: Palettes_105
+  - first:
+      213: 5090039540071280800
+    second: Palettes_106
+  - first:
+      213: -7462500137255409772
+    second: Palettes_107
+  - first:
+      213: 998235153917636459
+    second: Palettes_108
+  - first:
+      213: 2713193493884686137
+    second: Palettes_109
+  - first:
+      213: -3607350464263931552
+    second: Palettes_110
+  - first:
+      213: 4662519510765445231
+    second: Palettes_111
+  - first:
+      213: 2017722584902551825
+    second: Palettes_112
+  - first:
+      213: -5475854579173370663
+    second: Palettes_113
+  - first:
+      213: -1327913827534217770
+    second: Palettes_114
+  - first:
+      213: 2551996410407425908
+    second: Palettes_115
+  - first:
+      213: 1706207369000270762
+    second: Palettes_116
+  - first:
+      213: -3852354015148564873
+    second: Palettes_117
+  - first:
+      213: 7103102491795724375
+    second: Palettes_118
+  - first:
+      213: -8523968715254699166
+    second: Palettes_119
+  - first:
+      213: 3908081035832337388
+    second: Palettes_120
+  - first:
+      213: -6402862708239782734
+    second: Palettes_121
+  - first:
+      213: -3405097045436415178
+    second: Palettes_122
+  - first:
+      213: -2979003946871217723
+    second: Palettes_123
+  - first:
+      213: 9098858038435945045
+    second: Palettes_124
+  - first:
+      213: 953356827099187927
+    second: Palettes_125
+  - first:
+      213: 1040385888111361694
+    second: Palettes_126
+  - first:
+      213: -6291816109563447505
+    second: Palettes_127
+  - first:
+      213: -3779555842775466261
+    second: Palettes_128
+  - first:
+      213: 216254449278869726
+    second: Palettes_129
+  - first:
+      213: -3906780699767232692
+    second: Palettes_130
+  - first:
+      213: -6064394980036389995
+    second: Palettes_131
+  - first:
+      213: -628204694074370410
+    second: Palettes_132
+  - first:
+      213: -1629009463706182311
+    second: Palettes_133
+  - first:
+      213: 2812429010391122693
+    second: Palettes_134
+  - first:
+      213: -7028408286556107066
+    second: Palettes_135
+  - first:
+      213: -2579173858317422342
+    second: Palettes_136
+  - first:
+      213: -5215788249019260536
+    second: Palettes_137
+  - first:
+      213: 2560963728509500665
+    second: Palettes_138
+  - first:
+      213: -2189275410973893624
+    second: Palettes_139
+  - first:
+      213: 1200391634944162902
+    second: Palettes_140
+  - first:
+      213: -7413213978734010416
+    second: Palettes_141
+  - first:
+      213: 2956942343192808539
+    second: Palettes_142
+  - first:
+      213: 8332731532234950448
+    second: Palettes_143
+  - first:
+      213: -3051353645868671875
+    second: Palettes_144
+  - first:
+      213: -6064971075692440607
+    second: Palettes_145
+  - first:
+      213: 6958137865230044320
+    second: Palettes_146
+  - first:
+      213: 5108490746644943212
+    second: Palettes_147
+  - first:
+      213: -8313485466806042210
+    second: Palettes_148
+  - first:
+      213: -6933123397154227034
+    second: Palettes_149
+  - first:
+      213: 4688391407892946766
+    second: Palettes_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Palettes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aa6e2dfe6e0d0e0800000000000000
+      internalID: -2247042296347973070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 350
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d30a866fc0f87d00800000000000000
+      internalID: 970790493267559382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 340
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe89b852d9e10c690800000000000000
+      internalID: -7584028112203310865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 350
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac758b7517a71430800000000000000
+      internalID: 3753652525145095340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 340
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cedd7301107b39c0800000000000000
+      internalID: -3946437430084772156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 350
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75408856a3c0b7720800000000000000
+      internalID: 2844881034565649495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 340
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef4ba55904423050800000000000000
+      internalID: 5778756078752452576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 350
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5367bec2a8269f1e0800000000000000
+      internalID: -2163589800376175051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 340
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb2a69a5788c20a0800000000000000
+      internalID: -6904994089730954253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 350
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aa6d59809a72240800000000000000
+      internalID: 4766964584933665335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8a525cfae989df0800000000000000
+      internalID: -173214107889719070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 350
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f4b4a4f48159dc0800000000000000
+      internalID: -3632970795576504450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f0f0208c33d870800000000000000
+      internalID: 8706369025643442564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971eeda6b200c8f40800000000000000
+      internalID: 5731956612212384121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 261
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2edd25336e630b10800000000000000
+      internalID: 1946520836327202348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 271
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de50be82a7a6aeb0800000000000000
+      internalID: -4708892043748811050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 261
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f877e4d0148e8d910800000000000000
+      internalID: 1862493812011464591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 271
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382a03fcac8c81110800000000000000
+      internalID: 1231955271470850691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 261
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dd4cec8b9650350800000000000000
+      internalID: 5982303922495479183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 271
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e22246e63242750800000000000000
+      internalID: 6279182737494650485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29279d50a23a59d50800000000000000
+      internalID: 6743475417939276434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 271
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff72ec487011b03b0800000000000000
+      internalID: -5545319792186087425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 261
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47a763e59f58de10800000000000000
+      internalID: 2222631513477326668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 271
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f31f3dcdf65460800000000000000
+      internalID: 7230245309758306015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b28e6d657bbb3670800000000000000
+      internalID: 8519609233122951856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b21f6e2ebefc44a0800000000000000
+      internalID: -6607626460483087695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fd4b57904385640800000000000000
+      internalID: 5068858595839631147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc55ed17c3a690dc0800000000000000
+      internalID: -3672287213302950449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e246a43f074fbc20800000000000000
+      internalID: 3224373988853957347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e243e18f42a4dc0800000000000000
+      internalID: -3654067499580510579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5f2a769d1615bf0800000000000000
+      internalID: -337380910701546001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dd28816c457c860800000000000000
+      internalID: 7550096510101413229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d706fcf5ad87c090800000000000000
+      internalID: -8014281267829405742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c73d2273f24bd70800000000000000
+      internalID: 9057916664402902017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 189
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c133f2f6c397d6160800000000000000
+      internalID: 7020400694610834204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d9ffc5f3ba92e0800000000000000
+      internalID: -2118182806386781851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 239
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c579e376cbd3450800000000000000
+      internalID: 6070215024383056953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 243
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cf5fb34f3cc0ff0800000000000000
+      internalID: -68464440571986889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 204
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9be8518ebb52ef0800000000000000
+      internalID: -133494008469079586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 215
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f638ffe982dc51c90800000000000000
+      internalID: -7199622854931938449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 206
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075a2681607426a60800000000000000
+      internalID: 7665767607242499440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 208
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf496cec946e3560800000000000000
+      internalID: 7295379071530782660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 210
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162fe0052cadd9e60800000000000000
+      internalID: 7970767443617313377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 203
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffab3cfa8537500800000000000000
+      internalID: 392755104437698461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 202
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76579b500a83fa00800000000000000
+      internalID: 789126093861246589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1903cb9184f9d7790800000000000000
+      internalID: -7530687869875375983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 178
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e581472100e410800000000000000
+      internalID: 1504203543656391914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 167
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65da80d8b58f9c680800000000000000
+      internalID: -8734176930216497834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 167
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4489c6238744b50800000000000000
+      internalID: 6576513513833383074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 178
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb18d926c717e6240800000000000000
+      internalID: 4786888232985788859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96ad091fd5ef8060800000000000000
+      internalID: 6958032695671498396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 178
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc668de8e19a15c0800000000000000
+      internalID: -4243919269239821089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 169
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7bc401375a8d0c0800000000000000
+      internalID: -4550705509844600888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1365a2985257d60800000000000000
+      internalID: 7887251593460330958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2944b9cae8aa280800000000000000
+      internalID: -9031249230747626836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67f76082dae0b820800000000000000
+      internalID: 2932101547236521835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb66d51c44b28200800000000000000
+      internalID: 180905173925129182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 179
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea15501695436ae0800000000000000
+      internalID: -1557324535318635794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 169
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a082ff293d283d780800000000000000
+      internalID: -8659433813287426038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_59
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46764089abd821930800000000000000
+      internalID: 4112505242296543076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_60
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2971137c45fe8ab0800000000000000
+      internalID: -5003792427265197782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 167
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e38833700ab84900800000000000000
+      internalID: 668989055760368611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decf1fe065d554d80800000000000000
+      internalID: -8267098916769366803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27f8e596b9e43310800000000000000
+      internalID: 1383987955917977389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 169
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33d38c8825476400800000000000000
+      internalID: 317298339211367229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_65
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c342d101eaafd80800000000000000
+      internalID: -8216063185952424813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355778d217af12df0800000000000000
+      internalID: -206608743880231597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2783897e1f3f7fb80800000000000000
+      internalID: -8360945962891855758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175875b6a1c1d4490800000000000000
+      internalID: -7760515683093871247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a87d246bd25e10800000000000000
+      internalID: 2185049992534204602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 169
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7016bcbcb8c8ef520800000000000000
+      internalID: 2737780155535286535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8f77e939f55730800000000000000
+      internalID: 3987367072198790576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072e45e7117b4fa70800000000000000
+      internalID: 8859907652706427504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80da74871f0067d00800000000000000
+      internalID: 969963806850002184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4768b7d85acbb30800000000000000
+      internalID: 4304497370940732616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_75
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdd7487b98435d10800000000000000
+      internalID: 2113112482742001077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_76
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c87e3dc91853ea0800000000000000
+      internalID: -5893662026774377455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_77
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a907b5b9a95dffb50800000000000000
+      internalID: 6629252036520800410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_78
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569b58c3d27ea0270800000000000000
+      internalID: 8217634651565832549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_79
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2ad7e94c378b730800000000000000
+      internalID: 4015086356110615232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_80
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589d7d8db6a83b20800000000000000
+      internalID: 3114422475379546194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910325ae70083cf40800000000000000
+      internalID: 5747578320939266073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690ed427b21fc94e0800000000000000
+      internalID: -1973437367791525738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_83
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691c4d19527a35e30800000000000000
+      internalID: 4491117033220784534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55429348a82a8eba0800000000000000
+      internalID: -6059414582819478443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_85
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec55a21937c9d380800000000000000
+      internalID: -8945900136854889247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_86
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7620768813baf130800000000000000
+      internalID: 3601387769952216699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_87
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4278ba82675ff2e80800000000000000
+      internalID: -8201066508581107932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_88
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 169
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac588fc6d785be90800000000000000
+      internalID: -7010547888257737563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a67c2eb911471e70800000000000000
+      internalID: 9085802352063837863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_90
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dca23a33078ab100800000000000000
+      internalID: 124560387637161176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_91
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c56c557d52d47350800000000000000
+      internalID: 6013662701289235905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d25b823b1d9a60800000000000000
+      internalID: 7682326443263710401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6046eb5eec50d81c0800000000000000
+      internalID: -4499934066497395706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_94
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 158
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d6e7006d313c90800000000000000
+      internalID: -7191899647275248698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_95
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a8f27f8e4367d0800000000000000
+      internalID: -2926408954844501797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 158
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4785799a6943c4b40800000000000000
+      internalID: 5425769472769611892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 158
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210bfedd467481d70800000000000000
+      internalID: 9014033152727822354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_98
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 158
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e09c19d180dded90800000000000000
+      internalID: -7066762984162553629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_99
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 158
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc6212ed8b01d60800000000000000
+      internalID: 7858984613939957731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_100
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 158
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87231e32fcedc4070800000000000000
+      internalID: 8092087611719496312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_101
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 158
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2bc9bd4a5f611c0800000000000000
+      internalID: -4533165886493904183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_102
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 158
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c559fdd5fe401d260800000000000000
+      internalID: 7120477911968093532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_103
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea258be3781ed78a0800000000000000
+      internalID: -6305635932259724626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_104
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8ea0069bb5a32b0800000000000000
+      internalID: -5604065934570755887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e78620ac8846410800000000000000
+      internalID: 1469449779634798195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 94
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a034a65ef373a640800000000000000
+      internalID: 5090039540071280800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4976696c9afdf6890800000000000000
+      internalID: -7462500137255409772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_108
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 84
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f619765917add00800000000000000
+      internalID: 998235153917636459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_109
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 94
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fc5e98b1337a520800000000000000
+      internalID: 2713193493884686137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 84
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06935358ddd10fdc0800000000000000
+      internalID: -3607350464263931552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 84
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60a08dbac894b040800000000000000
+      internalID: 4662519510765445231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_112
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 94
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11946682004600c10800000000000000
+      internalID: 2017722584902551825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_113
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 84
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4dca6c54bd104b0800000000000000
+      internalID: -5475854579173370663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd5e71d86d429de0800000000000000
+      internalID: -1327913827534217770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_115
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 94
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4771866d6338a6320800000000000000
+      internalID: 2551996410407425908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab3a6eef8aada710800000000000000
+      internalID: 1706207369000270762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 84
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e15021f60b98ac0800000000000000
+      internalID: -3852354015148564873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_118
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 94
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581daa151a439260800000000000000
+      internalID: 7103102491795724375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_119
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 84
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b63ba8d97c4b980800000000000000
+      internalID: -8523968715254699166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_120
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 84
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce32a360ffa4c3630800000000000000
+      internalID: 3908081035832337388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_121
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 94
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bca5c96a467427a0800000000000000
+      internalID: -6402862708239782734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_122
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 84
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c705374aaeb0d0800000000000000
+      internalID: -3405097045436415178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1214a91b378a6d0800000000000000
+      internalID: -2979003946871217723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_124
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a9eaa9d23a54e70800000000000000
+      internalID: 9098858038435945045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_125
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dac07fabf00b3d00800000000000000
+      internalID: 953356827099187927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_126
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ef43af371307e00800000000000000
+      internalID: 1040385888111361694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27f365759afea8a0800000000000000
+      internalID: -6291816109563447505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_128
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beebd966cf15c8bc0800000000000000
+      internalID: -3779555842775466261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed06d5e964a400300800000000000000
+      internalID: 216254449278869726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_130
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47a50f07a358c9c0800000000000000
+      internalID: -3906780699767232692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_131
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593d44d65e0f6dba0800000000000000
+      internalID: -6064394980036389995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_132
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d67bb82b2847f0800000000000000
+      internalID: -628204694074370410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d1b0c06889469e0800000000000000
+      internalID: -1629009463706182311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503cd58b841c70720800000000000000
+      internalID: 2812429010391122693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce4967c6e3167e90800000000000000
+      internalID: -7028408286556107066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_136
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af034097a0fe43cd0800000000000000
+      internalID: -2579173858317422342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_137
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 10
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881ec81d83ccd97b0800000000000000
+      internalID: -5215788249019260536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcf77841fe5a8320800000000000000
+      internalID: 2560963728509500665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c576dec912e91e0800000000000000
+      internalID: -2189275410973893624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_140
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 10
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c723005d5a8a010800000000000000
+      internalID: 1200391634944162902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_141
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df5999c929fe1990800000000000000
+      internalID: -7413213978734010416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_142
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c8153056b290920800000000000000
+      internalID: 2956942343192808539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_143
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 10
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0378f8b0e2fc3a370800000000000000
+      internalID: 8332731532234950448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c97ed960a67a5d0800000000000000
+      internalID: -3051353645868671875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e35554b0f4e4dba0800000000000000
+      internalID: -6064971075692440607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_146
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 10
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac4b3bc585409060800000000000000
+      internalID: 6958137865230044320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_147
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c615424a44105e640800000000000000
+      internalID: 5108490746644943212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_148
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9147a1c30190ac80800000000000000
+      internalID: -8313485466806042210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_149
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 10
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac3ca8e00998cf90800000000000000
+      internalID: -6933123397154227034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palettes_150
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fd3733523801140800000000000000
+      internalID: 4688391407892946766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Palettes_0: -2247042296347973070
+      Palettes_1: 970790493267559382
+      Palettes_10: -173214107889719070
+      Palettes_100: 8092087611719496312
+      Palettes_101: -4533165886493904183
+      Palettes_102: 7120477911968093532
+      Palettes_103: -6305635932259724626
+      Palettes_104: -5604065934570755887
+      Palettes_105: 1469449779634798195
+      Palettes_106: 5090039540071280800
+      Palettes_107: -7462500137255409772
+      Palettes_108: 998235153917636459
+      Palettes_109: 2713193493884686137
+      Palettes_11: -3632970795576504450
+      Palettes_110: -3607350464263931552
+      Palettes_111: 4662519510765445231
+      Palettes_112: 2017722584902551825
+      Palettes_113: -5475854579173370663
+      Palettes_114: -1327913827534217770
+      Palettes_115: 2551996410407425908
+      Palettes_116: 1706207369000270762
+      Palettes_117: -3852354015148564873
+      Palettes_118: 7103102491795724375
+      Palettes_119: -8523968715254699166
+      Palettes_12: 8706369025643442564
+      Palettes_120: 3908081035832337388
+      Palettes_121: -6402862708239782734
+      Palettes_122: -3405097045436415178
+      Palettes_123: -2979003946871217723
+      Palettes_124: 9098858038435945045
+      Palettes_125: 953356827099187927
+      Palettes_126: 1040385888111361694
+      Palettes_127: -6291816109563447505
+      Palettes_128: -3779555842775466261
+      Palettes_129: 216254449278869726
+      Palettes_13: 5731956612212384121
+      Palettes_130: -3906780699767232692
+      Palettes_131: -6064394980036389995
+      Palettes_132: -628204694074370410
+      Palettes_133: -1629009463706182311
+      Palettes_134: 2812429010391122693
+      Palettes_135: -7028408286556107066
+      Palettes_136: -2579173858317422342
+      Palettes_137: -5215788249019260536
+      Palettes_138: 2560963728509500665
+      Palettes_139: -2189275410973893624
+      Palettes_14: 1946520836327202348
+      Palettes_140: 1200391634944162902
+      Palettes_141: -7413213978734010416
+      Palettes_142: 2956942343192808539
+      Palettes_143: 8332731532234950448
+      Palettes_144: -3051353645868671875
+      Palettes_145: -6064971075692440607
+      Palettes_146: 6958137865230044320
+      Palettes_147: 5108490746644943212
+      Palettes_148: -8313485466806042210
+      Palettes_149: -6933123397154227034
+      Palettes_15: -4708892043748811050
+      Palettes_150: 4688391407892946766
+      Palettes_16: 1862493812011464591
+      Palettes_17: 1231955271470850691
+      Palettes_18: 5982303922495479183
+      Palettes_19: 6279182737494650485
+      Palettes_2: -7584028112203310865
+      Palettes_20: 6743475417939276434
+      Palettes_21: -5545319792186087425
+      Palettes_22: 2222631513477326668
+      Palettes_23: 7230245309758306015
+      Palettes_24: 8519609233122951856
+      Palettes_25: -6607626460483087695
+      Palettes_26: 5068858595839631147
+      Palettes_27: -3672287213302950449
+      Palettes_28: 3224373988853957347
+      Palettes_29: -3654067499580510579
+      Palettes_3: 3753652525145095340
+      Palettes_30: -337380910701546001
+      Palettes_31: 7550096510101413229
+      Palettes_32: -8014281267829405742
+      Palettes_33: 9057916664402902017
+      Palettes_34: 7020400694610834204
+      Palettes_35: -2118182806386781851
+      Palettes_36: 6070215024383056953
+      Palettes_37: -68464440571986889
+      Palettes_38: -133494008469079586
+      Palettes_39: -7199622854931938449
+      Palettes_4: -3946437430084772156
+      Palettes_40: 7665767607242499440
+      Palettes_41: 7295379071530782660
+      Palettes_42: 7970767443617313377
+      Palettes_43: 392755104437698461
+      Palettes_44: 789126093861246589
+      Palettes_45: -7530687869875375983
+      Palettes_46: 1504203543656391914
+      Palettes_47: -8734176930216497834
+      Palettes_48: 6576513513833383074
+      Palettes_49: 4786888232985788859
+      Palettes_5: 2844881034565649495
+      Palettes_50: 6958032695671498396
+      Palettes_51: -4243919269239821089
+      Palettes_52: -4550705509844600888
+      Palettes_53: 7887251593460330958
+      Palettes_54: -9031249230747626836
+      Palettes_55: 2932101547236521835
+      Palettes_56: 180905173925129182
+      Palettes_57: -1557324535318635794
+      Palettes_58: -8659433813287426038
+      Palettes_59: 4112505242296543076
+      Palettes_6: 5778756078752452576
+      Palettes_60: -5003792427265197782
+      Palettes_61: 668989055760368611
+      Palettes_62: -8267098916769366803
+      Palettes_63: 1383987955917977389
+      Palettes_64: 317298339211367229
+      Palettes_65: -8216063185952424813
+      Palettes_66: -206608743880231597
+      Palettes_67: -8360945962891855758
+      Palettes_68: -7760515683093871247
+      Palettes_69: 2185049992534204602
+      Palettes_7: -2163589800376175051
+      Palettes_70: 2737780155535286535
+      Palettes_71: 3987367072198790576
+      Palettes_72: 8859907652706427504
+      Palettes_73: 969963806850002184
+      Palettes_74: 4304497370940732616
+      Palettes_75: 2113112482742001077
+      Palettes_76: -5893662026774377455
+      Palettes_77: 6629252036520800410
+      Palettes_78: 8217634651565832549
+      Palettes_79: 4015086356110615232
+      Palettes_8: -6904994089730954253
+      Palettes_80: 3114422475379546194
+      Palettes_81: 5747578320939266073
+      Palettes_82: -1973437367791525738
+      Palettes_83: 4491117033220784534
+      Palettes_84: -6059414582819478443
+      Palettes_85: -8945900136854889247
+      Palettes_86: 3601387769952216699
+      Palettes_87: -8201066508581107932
+      Palettes_88: -7010547888257737563
+      Palettes_89: 9085802352063837863
+      Palettes_9: 4766964584933665335
+      Palettes_90: 124560387637161176
+      Palettes_91: 6013662701289235905
+      Palettes_92: 7682326443263710401
+      Palettes_93: -4499934066497395706
+      Palettes_94: -7191899647275248698
+      Palettes_95: -2926408954844501797
+      Palettes_96: 5425769472769611892
+      Palettes_97: 9014033152727822354
+      Palettes_98: -7066762984162553629
+      Palettes_99: 7858984613939957731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
