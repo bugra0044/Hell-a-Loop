@@ -3,40 +3,49 @@ using TMPro;
 
 public class TimeManager : MonoBehaviour
 {
-    [Header("Zaman Ayarlarý")]
+    [Header("Zaman Ayarlarï¿½")]
     public float totalTime = 180f;
     private float currentTime;
 
-    [Header("Iþýnlanma Ayarlarý")]
+    [Header("Iï¿½ï¿½nlanma Ayarlarï¿½")]
     public Transform playerTransform;
     public Vector3 spawnPoint;
 
-    [Header("UI Elemanlarý")]
+    [Header("UI Elemanlarï¿½")]
     public TextMeshProUGUI timerText;
+
+    private bool isGameActive = false;
 
     void Start()
     {
-        currentTime = totalTime;
         spawnPoint = playerTransform.position;
+        UpdateTimerUI();
     }
 
     void Update()
     {
-        if (currentTime > 0)
+        if (isGameActive && currentTime > 0)
         {
             currentTime -= Time.deltaTime;
             UpdateTimerUI();
         }
-        else
+        else if (isGameActive && currentTime <= 0)
         {
             ResetLoop();
         }
     }
 
+    public void StartGame()
+    {
+        currentTime = totalTime;
+        isGameActive = true;
+        UpdateTimerUI();
+    }
+
     public void TakeDamage(float timePenalty)
     {
         currentTime -= timePenalty;
-        Debug.Log("Hasar alýndý! Süreden giden: " + timePenalty);
+        Debug.Log("Hasar alï¿½ndï¿½! Sï¿½reden giden: " + timePenalty);
     }
 
     void ResetLoop()
@@ -45,11 +54,11 @@ public class TimeManager : MonoBehaviour
 
         currentTime = totalTime;
 
-        // Ýsteðe baðlý: Hýzý sýfýrla ki karakter uçarak baþlamasýn
+        // ï¿½steï¿½e baï¿½lï¿½: Hï¿½zï¿½ sï¿½fï¿½rla ki karakter uï¿½arak baï¿½lamasï¿½n
         Rigidbody2D rb = playerTransform.GetComponent<Rigidbody2D>();
         if (rb != null) rb.linearVelocity = Vector2.zero;
 
-        Debug.Log("Süre bitti! Döngü baþa döndü.");
+        Debug.Log("Sï¿½re bitti! Dï¿½ngï¿½ baï¿½a dï¿½ndï¿½.");
     }
 
     void UpdateTimerUI()
