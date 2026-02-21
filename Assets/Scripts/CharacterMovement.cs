@@ -75,6 +75,8 @@ public class CharacterMovement : MonoBehaviour
                 Debug.LogError($"UYARI: Karakterinizin Parent objesi ('{transform.parent.name}') orantısız scale'e sahip ({pScale})! Bu durum dönünce karakteri yamultur/esnetir. Lütfen Parent scale'ini (1,1,1) yapın.");
             }
         }
+
+        if (footstepSource != null) footstepSource.loop = true;
     }
 
     private Vector2 groundNormal = Vector2.up;
@@ -104,6 +106,17 @@ public class CharacterMovement : MonoBehaviour
 
     [Header("Efekt Nesneleri")]
     public GameObject flamerObject; // Buz kırıcı etkisi olan obje
+
+    [Header("Ses Efektleri")]
+    public AudioSource footstepSource; // Yürüme/Koşma sesi için (Loop olmalı)
+    public AudioSource sfxSource;      // Zıplama/Düşme sesi için (OneShot)
+    public AudioClip walkClip;
+    public AudioClip jumpClip;
+    public AudioClip landClip;
+    public AudioClip swingClip;     // Sallanma sesi (Loop)
+    public AudioClip launchClip;    // Loop Fırlatma sesi (OneShot)
+    public AudioClip iceBreakClip;  // Buz kırma sesi (OneShot)
+    public float runPitchMultiplier = 1.5f; // Koşarken ses ne kadar hızlansın?
     
     void Update()
     {
@@ -142,7 +155,65 @@ public class CharacterMovement : MonoBehaviour
             transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
             
         HandlePhaseSystem(); // Keep existing phase logic
-        
+        HandleAudio();
+    }
+
+    void HandleAudio()
+    {
+        // 0. Oyun Başlamadıysa Ses Çalmasın
+        if (Time.timeScale == 0)
+        {
+            if (footstepSource != null && footstepSource.isPlaying) footstepSource.Stop();
+            return;
+        }
+
+        if (footstepSource == null) return;
+
+        // 1. SALLANMA DURUMU (Swinging)
+        if (isSwinging)
+        {
+            if (swingClip != null)
+            {
+                if (footstepSource.clip != swingClip)
+                {
+                    footstepSource.clip = swingClip;
+                    footstepSource.pitch = 1f; // Swing pitch'i normal olsun
+                    footstepSource.Play();
+                }
+            }
+            return; // Sallanıyorsak yürüme sesine geçmesin
+        }
+
+        if (walkClip == null) return;
+
+        // 2. YÜRÜME / KOŞMA DURUMU
+        // Yerdeysek ve hareket ediyorsak ses çal (ve swing değilsek)
+        if (isGrounded && Mathf.Abs(moveInput) > 0.1f)
+        {
+            if (footstepSource.clip != walkClip || !footstepSource.isPlaying)
+            {
+                footstepSource.clip = walkClip;
+                footstepSource.Play();
+            }
+
+            // Koşma durumuna göre pitch ayarla
+            if (isRunning)
+            {
+                footstepSource.pitch = runPitchMultiplier;
+            }
+            else
+            {
+                footstepSource.pitch = 1f;
+            }
+        }
+        else
+        {
+            // Duruyorsak veya havadaysak sesi durdur
+            if (footstepSource.isPlaying)
+            {
+                footstepSource.Stop();
+            }
+        }
     }
 
     void FixedUpdate()
@@ -228,6 +299,14 @@ public class CharacterMovement : MonoBehaviour
             
             // Fix Gravity on Loops
             rb.gravityScale = 0f; 
+
+            // Yere düşme sesi
+            if (!wasGrounded && sfxSource != null && landClip != null)
+            {
+                // Sadece yere çarptığımızda çal (sürekli değil)
+                // wasGrounded FixedUpdate sonunda güncelleniyor, o yüzden burası güvenli
+                sfxSource.PlayOneShot(landClip);
+            } 
         }
         else
         {
@@ -382,6 +461,12 @@ public class CharacterMovement : MonoBehaviour
             Vector3 localJump = new Vector3(finalHorizontalBoost, jumpForce * jumpMult, 0);
             rb.AddForce(transform.TransformDirection(localJump), ForceMode2D.Impulse);
             jumpCount++;
+
+            // Zıplama Sesi
+            if (sfxSource != null && jumpClip != null)
+            {
+                sfxSource.PlayOneShot(jumpClip);
+            }
         }
     }
 
@@ -401,6 +486,13 @@ public class CharacterMovement : MonoBehaviour
             if (ice != null && canBreak)
             {
                 ice.Break(); 
+
+                // Buz Kırma Sesi
+                if (sfxSource != null && iceBreakClip != null)
+                {
+                    sfxSource.PlayOneShot(iceBreakClip);
+                }
+
                 return; // Stop processing collision if we broke something
             }
         }
@@ -503,6 +595,12 @@ public class CharacterMovement : MonoBehaviour
         {
             // Reset rotation to upright (0,0,0) so player lands on feet
             transform.rotation = Quaternion.identity;
+        }
+
+        // Fırlatma Sesi
+        if (sfxSource != null && launchClip != null)
+        {
+            sfxSource.PlayOneShot(launchClip);
         }
     }
 

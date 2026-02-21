@@ -1,0 +1,3835 @@
+fileFormatVersion: 2
+guid: 9997b0e0f8e25b649a431a1025ab8a32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6531838427853183115
+    second: TOTHEPASTAGAINTHREE2_0
+  - first:
+      213: -4764084582283119868
+    second: TOTHEPASTAGAINTHREE2_1
+  - first:
+      213: -9029699527027482848
+    second: TOTHEPASTAGAINTHREE2_2
+  - first:
+      213: -466938333571514327
+    second: TOTHEPASTAGAINTHREE2_3
+  - first:
+      213: 3547399609886512362
+    second: TOTHEPASTAGAINTHREE2_4
+  - first:
+      213: -58503269563634076
+    second: TOTHEPASTAGAINTHREE2_5
+  - first:
+      213: -3566718659528649827
+    second: TOTHEPASTAGAINTHREE2_6
+  - first:
+      213: -4194311924347436569
+    second: TOTHEPASTAGAINTHREE2_7
+  - first:
+      213: 6212033228789588998
+    second: TOTHEPASTAGAINTHREE2_8
+  - first:
+      213: -367959368597233992
+    second: TOTHEPASTAGAINTHREE2_9
+  - first:
+      213: 6119641427615492017
+    second: TOTHEPASTAGAINTHREE2_10
+  - first:
+      213: 5573395795086953725
+    second: TOTHEPASTAGAINTHREE2_11
+  - first:
+      213: -7416379177114879732
+    second: TOTHEPASTAGAINTHREE2_12
+  - first:
+      213: 4477667345495236938
+    second: TOTHEPASTAGAINTHREE2_13
+  - first:
+      213: 7533424765601870873
+    second: TOTHEPASTAGAINTHREE2_14
+  - first:
+      213: 8759891232494161322
+    second: TOTHEPASTAGAINTHREE2_15
+  - first:
+      213: 871491733677818147
+    second: TOTHEPASTAGAINTHREE2_16
+  - first:
+      213: -4162278915706301189
+    second: TOTHEPASTAGAINTHREE2_17
+  - first:
+      213: -569198994015970263
+    second: TOTHEPASTAGAINTHREE2_18
+  - first:
+      213: 968680869881065454
+    second: TOTHEPASTAGAINTHREE2_19
+  - first:
+      213: 5593487979897586976
+    second: TOTHEPASTAGAINTHREE2_20
+  - first:
+      213: -6631621559746278804
+    second: TOTHEPASTAGAINTHREE2_21
+  - first:
+      213: -4297744815314460269
+    second: TOTHEPASTAGAINTHREE2_22
+  - first:
+      213: -2855220352765089995
+    second: TOTHEPASTAGAINTHREE2_23
+  - first:
+      213: -3936726369899655695
+    second: TOTHEPASTAGAINTHREE2_24
+  - first:
+      213: 5531296084775602445
+    second: TOTHEPASTAGAINTHREE2_25
+  - first:
+      213: -1986515355801219257
+    second: TOTHEPASTAGAINTHREE2_26
+  - first:
+      213: -5495761228788622245
+    second: TOTHEPASTAGAINTHREE2_27
+  - first:
+      213: -2940962111336885217
+    second: TOTHEPASTAGAINTHREE2_28
+  - first:
+      213: -528255173754805984
+    second: TOTHEPASTAGAINTHREE2_29
+  - first:
+      213: 8966834120730323348
+    second: TOTHEPASTAGAINTHREE2_30
+  - first:
+      213: 2014115675543261119
+    second: TOTHEPASTAGAINTHREE2_31
+  - first:
+      213: 9015369446881130882
+    second: TOTHEPASTAGAINTHREE2_32
+  - first:
+      213: -474771791606272003
+    second: TOTHEPASTAGAINTHREE2_33
+  - first:
+      213: -3541522534563635269
+    second: TOTHEPASTAGAINTHREE2_34
+  - first:
+      213: 3482105992338190551
+    second: TOTHEPASTAGAINTHREE2_35
+  - first:
+      213: -2508592233325374848
+    second: TOTHEPASTAGAINTHREE2_36
+  - first:
+      213: -2335947462622141737
+    second: TOTHEPASTAGAINTHREE2_37
+  - first:
+      213: 1142335260202349614
+    second: TOTHEPASTAGAINTHREE2_38
+  - first:
+      213: 3256865021135749756
+    second: TOTHEPASTAGAINTHREE2_39
+  - first:
+      213: -858946848167077186
+    second: TOTHEPASTAGAINTHREE2_40
+  - first:
+      213: -6502040693917528879
+    second: TOTHEPASTAGAINTHREE2_41
+  - first:
+      213: 1674518988580438906
+    second: TOTHEPASTAGAINTHREE2_42
+  - first:
+      213: 3293897993308226642
+    second: TOTHEPASTAGAINTHREE2_43
+  - first:
+      213: -5692150314703275688
+    second: TOTHEPASTAGAINTHREE2_44
+  - first:
+      213: -2189192376212036832
+    second: TOTHEPASTAGAINTHREE2_45
+  - first:
+      213: 6992198214379967192
+    second: TOTHEPASTAGAINTHREE2_46
+  - first:
+      213: -4624718897287676479
+    second: TOTHEPASTAGAINTHREE2_47
+  - first:
+      213: 6176901690042049661
+    second: TOTHEPASTAGAINTHREE2_48
+  - first:
+      213: 22125671276782753
+    second: TOTHEPASTAGAINTHREE2_49
+  - first:
+      213: 6438876272124707726
+    second: TOTHEPASTAGAINTHREE2_50
+  - first:
+      213: -1332939376779237248
+    second: TOTHEPASTAGAINTHREE2_51
+  - first:
+      213: 1338281197525633914
+    second: TOTHEPASTAGAINTHREE2_52
+  - first:
+      213: -5503843949409389386
+    second: TOTHEPASTAGAINTHREE2_53
+  - first:
+      213: -5194899259647879796
+    second: TOTHEPASTAGAINTHREE2_54
+  - first:
+      213: -6784903088412863420
+    second: TOTHEPASTAGAINTHREE2_55
+  - first:
+      213: -6026022461966203818
+    second: TOTHEPASTAGAINTHREE2_56
+  - first:
+      213: 1283246984038278491
+    second: TOTHEPASTAGAINTHREE2_57
+  - first:
+      213: -409585788431048851
+    second: TOTHEPASTAGAINTHREE2_58
+  - first:
+      213: -7131463987570882034
+    second: TOTHEPASTAGAINTHREE2_59
+  - first:
+      213: -8373890494331069262
+    second: TOTHEPASTAGAINTHREE2_60
+  - first:
+      213: 4362589594523279214
+    second: TOTHEPASTAGAINTHREE2_61
+  - first:
+      213: -1846657597309483706
+    second: TOTHEPASTAGAINTHREE2_62
+  - first:
+      213: -7678421411164630302
+    second: TOTHEPASTAGAINTHREE2_63
+  - first:
+      213: 1626653044549414325
+    second: TOTHEPASTAGAINTHREE2_64
+  - first:
+      213: -654078565111806760
+    second: TOTHEPASTAGAINTHREE2_65
+  - first:
+      213: 8002506630896232179
+    second: TOTHEPASTAGAINTHREE2_66
+  - first:
+      213: 1907570912314877284
+    second: TOTHEPASTAGAINTHREE2_67
+  - first:
+      213: 8462468172007246558
+    second: TOTHEPASTAGAINTHREE2_68
+  - first:
+      213: -635205933574764501
+    second: TOTHEPASTAGAINTHREE2_69
+  - first:
+      213: 7814597899255374963
+    second: TOTHEPASTAGAINTHREE2_70
+  - first:
+      213: 5284203606643179221
+    second: TOTHEPASTAGAINTHREE2_71
+  - first:
+      213: 3925093561327814256
+    second: TOTHEPASTAGAINTHREE2_72
+  - first:
+      213: -8574790738360436100
+    second: TOTHEPASTAGAINTHREE2_73
+  - first:
+      213: -3840365916601296003
+    second: TOTHEPASTAGAINTHREE2_74
+  - first:
+      213: -8637722652522726515
+    second: TOTHEPASTAGAINTHREE2_75
+  - first:
+      213: 8931383879608572416
+    second: TOTHEPASTAGAINTHREE2_76
+  - first:
+      213: 1647921744902474097
+    second: TOTHEPASTAGAINTHREE2_77
+  - first:
+      213: -7398562938464081004
+    second: TOTHEPASTAGAINTHREE2_78
+  - first:
+      213: -670813939306595552
+    second: TOTHEPASTAGAINTHREE2_79
+  - first:
+      213: 1631071516203937464
+    second: TOTHEPASTAGAINTHREE2_80
+  - first:
+      213: 4791755490529576504
+    second: TOTHEPASTAGAINTHREE2_81
+  - first:
+      213: -3482125219769627481
+    second: TOTHEPASTAGAINTHREE2_82
+  - first:
+      213: 14959034152996109
+    second: TOTHEPASTAGAINTHREE2_83
+  - first:
+      213: 4039202584430891164
+    second: TOTHEPASTAGAINTHREE2_84
+  - first:
+      213: 9080850740136495659
+    second: TOTHEPASTAGAINTHREE2_85
+  - first:
+      213: 7586280832852588659
+    second: TOTHEPASTAGAINTHREE2_86
+  - first:
+      213: 5770940267537899197
+    second: TOTHEPASTAGAINTHREE2_87
+  - first:
+      213: -6702509911887969871
+    second: TOTHEPASTAGAINTHREE2_88
+  - first:
+      213: 1261308686053906266
+    second: TOTHEPASTAGAINTHREE2_89
+  - first:
+      213: -1104589551909515558
+    second: TOTHEPASTAGAINTHREE2_90
+  - first:
+      213: -3838695214504017540
+    second: TOTHEPASTAGAINTHREE2_91
+  - first:
+      213: 5020469482036377689
+    second: TOTHEPASTAGAINTHREE2_92
+  - first:
+      213: -330774860618989479
+    second: TOTHEPASTAGAINTHREE2_93
+  - first:
+      213: -1693986192615269689
+    second: TOTHEPASTAGAINTHREE2_94
+  - first:
+      213: 4545780403074030924
+    second: TOTHEPASTAGAINTHREE2_95
+  - first:
+      213: -8515633333234568179
+    second: TOTHEPASTAGAINTHREE2_96
+  - first:
+      213: 6479144142659666044
+    second: TOTHEPASTAGAINTHREE2_97
+  - first:
+      213: 144021484599075985
+    second: TOTHEPASTAGAINTHREE2_98
+  - first:
+      213: 1106950800830518054
+    second: TOTHEPASTAGAINTHREE2_99
+  - first:
+      213: -3224599349897404601
+    second: TOTHEPASTAGAINTHREE2_100
+  - first:
+      213: 813043345378718615
+    second: TOTHEPASTAGAINTHREE2_101
+  - first:
+      213: -4794861759213102240
+    second: TOTHEPASTAGAINTHREE2_102
+  - first:
+      213: 8181710227727436998
+    second: TOTHEPASTAGAINTHREE2_103
+  - first:
+      213: -5873102824535996322
+    second: TOTHEPASTAGAINTHREE2_104
+  - first:
+      213: -368830530075009473
+    second: TOTHEPASTAGAINTHREE2_105
+  - first:
+      213: -4410216366370979980
+    second: TOTHEPASTAGAINTHREE2_106
+  - first:
+      213: -6126652624036861991
+    second: TOTHEPASTAGAINTHREE2_107
+  - first:
+      213: 980052332795494400
+    second: TOTHEPASTAGAINTHREE2_108
+  - first:
+      213: -8685590804406032272
+    second: TOTHEPASTAGAINTHREE2_109
+  - first:
+      213: 8409958073092309681
+    second: TOTHEPASTAGAINTHREE2_110
+  - first:
+      213: 1222405863007982393
+    second: TOTHEPASTAGAINTHREE2_111
+  - first:
+      213: -8183825970564906046
+    second: TOTHEPASTAGAINTHREE2_112
+  - first:
+      213: 2157578857555987145
+    second: TOTHEPASTAGAINTHREE2_113
+  - first:
+      213: -3247888118591756881
+    second: TOTHEPASTAGAINTHREE2_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a0999e8f3a55a0800000000000000
+      internalID: -6531838427853183115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4037919405292edb0800000000000000
+      internalID: -4764084582283119868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f930f1f1010b280800000000000000
+      internalID: -9029699527027482848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920057f3f0a1589f0800000000000000
+      internalID: -466938333571514327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae415a77625ea3130800000000000000
+      internalID: 3547399609886512362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ee5771697203ff0800000000000000
+      internalID: -58503269563634076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d939905c648708ec0800000000000000
+      internalID: -3566718659528649827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 895
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e10618f68fcac5c0800000000000000
+      internalID: -4194311924347436569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 895
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6042dee0f43953650800000000000000
+      internalID: 6212033228789588998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 895
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be1cfe57eeb4eaf0800000000000000
+      internalID: -367959368597233992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 895
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b729c584755de450800000000000000
+      internalID: 6119641427615492017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 895
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc40de42fda85d40800000000000000
+      internalID: 5573395795086953725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 895
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09b67c9e6ab31990800000000000000
+      internalID: -7416379177114879732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412c9e1abed32e30800000000000000
+      internalID: 4477667345495236938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91474d719e91c8860800000000000000
+      internalID: 7533424765601870873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 862
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad8fdff9a2619970800000000000000
+      internalID: 8759891232494161322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 862
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3214e8a4d19281c00800000000000000
+      internalID: 871491733677818147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 862
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf45a3df06d9c36c0800000000000000
+      internalID: -4162278915706301189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 862
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c1b2bd78cc918f0800000000000000
+      internalID: -569198994015970263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef2afd6e12717d00800000000000000
+      internalID: 968680869881065454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 815
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0258631aeaf00ad40800000000000000
+      internalID: 5593487979897586976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 829
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a4086c35fb7f3a0800000000000000
+      internalID: -6631621559746278804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 829
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391a7e36cd75b54c0800000000000000
+      internalID: -4297744815314460269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 739
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a8fd77383068d0800000000000000
+      internalID: -2855220352765089995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 772
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdc7386930fd59c0800000000000000
+      internalID: -3936726369899655695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 774
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d090f88ab7c13cc40800000000000000
+      internalID: 5531296084775602445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 801
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0c941fca7e64e0800000000000000
+      internalID: -1986515355801219257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 700
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c90bbb7422bb3b0800000000000000
+      internalID: -5495761228788622245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 722
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14d1e7aa8a9f27d0800000000000000
+      internalID: -2940962111336885217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212591e7b24ba8f0800000000000000
+      internalID: -528255173754805984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499abfddf18907c70800000000000000
+      internalID: 8966834120730323348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf4d41298393fb10800000000000000
+      internalID: 2014115675543261119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28972481fb60d1d70800000000000000
+      internalID: 9015369446881130882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffaeeb22954969f0800000000000000
+      internalID: -474771791606272003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf1b43c40cf9dec0800000000000000
+      internalID: -3541522534563635269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b39773fce25030800000000000000
+      internalID: 3482105992338190551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 735
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0825656a7a0bf2dd0800000000000000
+      internalID: -2508592233325374848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 735
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2ae6cb82c059fd0800000000000000
+      internalID: -2335947462622141737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 735
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24b3c6edd36adf00800000000000000
+      internalID: 1142335260202349614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 735
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72013a2b75b23d20800000000000000
+      internalID: 3256865021135749756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 735
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5f0a74686414f0800000000000000
+      internalID: -858946848167077186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc49eb207c14c5a0800000000000000
+      internalID: -6502040693917528879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 702
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73cbfbe5261d3710800000000000000
+      internalID: 1674518988580438906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 702
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2544289e5c646bd20800000000000000
+      internalID: 3293897993308226642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 703
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859bbf3727b6101b0800000000000000
+      internalID: -5692150314703275688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 702
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02363e6f12d6e91e0800000000000000
+      internalID: -2189192376212036832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 702
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d21d3fca37490160800000000000000
+      internalID: 6992198214379967192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb12d6aa2b1dfb0800000000000000
+      internalID: -4624718897287676479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 669
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7467774c53c8b550800000000000000
+      internalID: 6176901690042049661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 669
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4aed84e2b9e4000800000000000000
+      internalID: 22125671276782753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 669
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e834fa8dadb7b5950800000000000000
+      internalID: 6438876272124707726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 669
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08861f3f2b2708de0800000000000000
+      internalID: -1332939376779237248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 669
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b891c98a7829210800000000000000
+      internalID: 1338281197525633914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b43540b61b6e93b0800000000000000
+      internalID: -5503843949409389386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c859fb8a5a208e7b0800000000000000
+      internalID: -5194899259647879796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44453bbc69e27d1a0800000000000000
+      internalID: -6784903088412863420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654caf18f744f5ca0800000000000000
+      internalID: -6026022461966203818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5561b245520fc110800000000000000
+      internalID: 1283246984038278491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 636
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd48f35ebd05af0800000000000000
+      internalID: -409585788431048851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ac8549943f70d90800000000000000
+      internalID: -7131463987570882034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 603
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc506156f6f9cb80800000000000000
+      internalID: -8373890494331069262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 603
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f106a4f180b8c30800000000000000
+      internalID: 4362589594523279214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 603
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645879203ba5f56e0800000000000000
+      internalID: -1846657597309483706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 603
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e257c79864c07590800000000000000
+      internalID: -7678421411164630302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 603
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdec2d5358039610800000000000000
+      internalID: 1626653044549414325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4405fa20f3ce6f0800000000000000
+      internalID: -654078565111806760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f62747b16d9e0f60800000000000000
+      internalID: 8002506630896232179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465656453ad097a10800000000000000
+      internalID: 1907570912314877284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda8a8367f9b07570800000000000000
+      internalID: 8462468172007246558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b284e02a19b4f27f0800000000000000
+      internalID: -635205933574764501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37461a7c267037c60800000000000000
+      internalID: 7814597899255374963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5defdceee23455940800000000000000
+      internalID: 5284203606643179221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_72
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0760e194ccbb87630800000000000000
+      internalID: 3925093561327814256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a77b03149300980800000000000000
+      internalID: -8574790738360436100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b5675cb8744bac0800000000000000
+      internalID: -3840365916601296003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bb90c1305a02880800000000000000
+      internalID: -8637722652522726515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_76
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a18b86156a2fb70800000000000000
+      internalID: 8931383879608572416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179cd8e88189ed610800000000000000
+      internalID: 1647921744902474097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6a7ce436035990800000000000000
+      internalID: -7398562938464081004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_79
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bff3db64ac0b6f0800000000000000
+      internalID: -670813939306595552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_80
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bee796f6eab2a610800000000000000
+      internalID: 1631071516203937464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_81
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360b871b3cbf7240800000000000000
+      internalID: 4791755490529576504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_82
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acc33ccf810dafc0800000000000000
+      internalID: -3482125219769627481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d4fdc8925253000800000000000000
+      internalID: 14959034152996109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90d7d499512e0830800000000000000
+      internalID: 4039202584430891164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2acd20c2a9a50e70800000000000000
+      internalID: 9080850740136495659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37878804932e74960800000000000000
+      internalID: 7586280832852588659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe189af89f761050800000000000000
+      internalID: 5770940267537899197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_88
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1026e1fb6ebf2a0800000000000000
+      internalID: -6702509911887969871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a579b583191118110800000000000000
+      internalID: 1261308686053906266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_90
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade43d7a7a5bba0f0800000000000000
+      internalID: -1104589551909515558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c710f7a6a073abac0800000000000000
+      internalID: -3838695214504017540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958b772f46a4ca540800000000000000
+      internalID: 5020469482036377689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_93
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9500d2c440ad86bf0800000000000000
+      internalID: -330774860618989479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_94
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca10ce6880cd78e0800000000000000
+      internalID: -1693986192615269689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dd828213bd51f30800000000000000
+      internalID: 4545780403074030924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04f317e99462d980800000000000000
+      internalID: -8515633333234568179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_97
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7048cf054b8ae950800000000000000
+      internalID: 6479144142659666044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1946d85f6caaff100800000000000000
+      internalID: 144021484599075985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_99
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623565373edac5f00800000000000000
+      internalID: 1106950800830518054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd866d9fbef33d0800000000000000
+      internalID: -3224599349897404601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7933b4c6d92884b00800000000000000
+      internalID: 813043345378718615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_102
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b9ffe52aa357db0800000000000000
+      internalID: -4794861759213102240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_103
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cccfd28a164b8170800000000000000
+      internalID: 8181710227727436998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58403e191c8e7ea0800000000000000
+      internalID: -5873102824535996322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_105
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e5f884696a1eaf0800000000000000
+      internalID: -368830530075009473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_106
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff7d3c493cbc2c0800000000000000
+      internalID: -4410216366370979980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7611a16e1c9faa0800000000000000
+      internalID: -6126652624036861991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00081957768d99d00800000000000000
+      internalID: 980052332795494400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078aafe7e25967780800000000000000
+      internalID: -8685590804406032272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b288924f4c26b470800000000000000
+      internalID: 8409958073092309681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93312f3e7abd6f010800000000000000
+      internalID: 1222405863007982393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ccd8b3a53d6e80800000000000000
+      internalID: -8183825970564906046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca84832a8241fd10800000000000000
+      internalID: 2157578857555987145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_114
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa56025d6fe2de2d0800000000000000
+      internalID: -3247888118591756881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07f52f56ba4abf4ca6a213efffde8bd
+      internalID: -1973789494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_116
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4973dbed5d19924caec00716369c1b5
+      internalID: -407923557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6db7657aa65c408c37512c6e63850
+      internalID: -1892451725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb001a1e39124245924948548e3c26b
+      internalID: 183818317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_119
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caa58517d70e854ea4433d6cc2cf1c3
+      internalID: -1839772666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_120
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f757d3df4ad3c47a91bf5cfa4c40d8
+      internalID: -1773771325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_121
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45f337634e36c44093591f0fb9a510f
+      internalID: -685067066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3e3045b6284f4d8756cd38b9f2c84
+      internalID: -118697520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c1829f93d96da46b1fdcf317d0aafb
+      internalID: 1208618669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_124
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c071876feb161294d8cb2a351f91792b
+      internalID: -2004772678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_125
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162bf1e8976c4eb4d86f4c62b0a80357
+      internalID: -530622082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b62bdab746e8f42824a3d3819900fd
+      internalID: -785076508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5ee69775f09f4d8b55a2fbfd459cf
+      internalID: 804794610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_128
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa3c4e4a8f3984478ecd647555ab01a
+      internalID: -1239510405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_129
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f05f25d64dbc46893d2162301f649
+      internalID: -682822786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_130
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38fb17aefc25e94c90594aa275292bc
+      internalID: 777357999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_131
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9827ecc00ec934b4da7e663cddf8c64f
+      internalID: 1906794065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_132
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65859712089391f40a64ca55bc58383e
+      internalID: 2117493605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_133
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b187db85dd84564449eaa69623fbf53c
+      internalID: 1928103172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_134
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8cc811b60d60b48b1e94145408630f
+      internalID: -1517721052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_135
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d3d7c81d1fdd2428e70c288c2da295
+      internalID: 2093913863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_136
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d94e0cfff464744cb9659f4bf7c0c19
+      internalID: -621228253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_137
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0e89a73986cb148a3a8b474c0f8a91
+      internalID: 1355936905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_138
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e4e17dd7a8dd04083e29ba9ac9898d
+      internalID: 1933180487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_139
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7b5028bd0008458fbb5cc0e24a950
+      internalID: 281409124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_140
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca173e842d78c4a823abcb74546910
+      internalID: 198064066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_141
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe625186f3ee25545a8d3a8dd0d8e391
+      internalID: -1711511240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_142
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c9f3e4b5995de438daa877bce01806
+      internalID: 1412108502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_143
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1fe264e9b9faa409edb424b8e65326
+      internalID: -815411028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_144
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4494dce2a524d645b17cd6d82e3928e
+      internalID: -385577840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOTHEPASTAGAINTHREE2_145
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebc21adcb16e4c46855480f8bd90bd6
+      internalID: 968620368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99e2afb8081679f419f15754a299f593
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TOTHEPASTAGAINTHREE2_0: -6531838427853183115
+      TOTHEPASTAGAINTHREE2_1: -4764084582283119868
+      TOTHEPASTAGAINTHREE2_10: 6119641427615492017
+      TOTHEPASTAGAINTHREE2_100: -3224599349897404601
+      TOTHEPASTAGAINTHREE2_101: 813043345378718615
+      TOTHEPASTAGAINTHREE2_102: -4794861759213102240
+      TOTHEPASTAGAINTHREE2_103: 8181710227727436998
+      TOTHEPASTAGAINTHREE2_104: -5873102824535996322
+      TOTHEPASTAGAINTHREE2_105: -368830530075009473
+      TOTHEPASTAGAINTHREE2_106: -4410216366370979980
+      TOTHEPASTAGAINTHREE2_107: -6126652624036861991
+      TOTHEPASTAGAINTHREE2_108: 980052332795494400
+      TOTHEPASTAGAINTHREE2_109: -8685590804406032272
+      TOTHEPASTAGAINTHREE2_11: 5573395795086953725
+      TOTHEPASTAGAINTHREE2_110: 8409958073092309681
+      TOTHEPASTAGAINTHREE2_111: 1222405863007982393
+      TOTHEPASTAGAINTHREE2_112: -8183825970564906046
+      TOTHEPASTAGAINTHREE2_113: 2157578857555987145
+      TOTHEPASTAGAINTHREE2_114: -3247888118591756881
+      TOTHEPASTAGAINTHREE2_115: -1973789494
+      TOTHEPASTAGAINTHREE2_116: -407923557
+      TOTHEPASTAGAINTHREE2_117: -1892451725
+      TOTHEPASTAGAINTHREE2_118: 183818317
+      TOTHEPASTAGAINTHREE2_119: -1839772666
+      TOTHEPASTAGAINTHREE2_12: -7416379177114879732
+      TOTHEPASTAGAINTHREE2_120: -1773771325
+      TOTHEPASTAGAINTHREE2_121: -685067066
+      TOTHEPASTAGAINTHREE2_122: -118697520
+      TOTHEPASTAGAINTHREE2_123: 1208618669
+      TOTHEPASTAGAINTHREE2_124: -2004772678
+      TOTHEPASTAGAINTHREE2_125: -530622082
+      TOTHEPASTAGAINTHREE2_126: -785076508
+      TOTHEPASTAGAINTHREE2_127: 804794610
+      TOTHEPASTAGAINTHREE2_128: -1239510405
+      TOTHEPASTAGAINTHREE2_129: -682822786
+      TOTHEPASTAGAINTHREE2_13: 4477667345495236938
+      TOTHEPASTAGAINTHREE2_130: 777357999
+      TOTHEPASTAGAINTHREE2_131: 1906794065
+      TOTHEPASTAGAINTHREE2_132: 2117493605
+      TOTHEPASTAGAINTHREE2_133: 1928103172
+      TOTHEPASTAGAINTHREE2_134: -1517721052
+      TOTHEPASTAGAINTHREE2_135: 2093913863
+      TOTHEPASTAGAINTHREE2_136: -621228253
+      TOTHEPASTAGAINTHREE2_137: 1355936905
+      TOTHEPASTAGAINTHREE2_138: 1933180487
+      TOTHEPASTAGAINTHREE2_139: 281409124
+      TOTHEPASTAGAINTHREE2_14: 7533424765601870873
+      TOTHEPASTAGAINTHREE2_140: 198064066
+      TOTHEPASTAGAINTHREE2_141: -1711511240
+      TOTHEPASTAGAINTHREE2_142: 1412108502
+      TOTHEPASTAGAINTHREE2_143: -815411028
+      TOTHEPASTAGAINTHREE2_144: -385577840
+      TOTHEPASTAGAINTHREE2_145: 968620368
+      TOTHEPASTAGAINTHREE2_15: 8759891232494161322
+      TOTHEPASTAGAINTHREE2_16: 871491733677818147
+      TOTHEPASTAGAINTHREE2_17: -4162278915706301189
+      TOTHEPASTAGAINTHREE2_18: -569198994015970263
+      TOTHEPASTAGAINTHREE2_19: 968680869881065454
+      TOTHEPASTAGAINTHREE2_2: -9029699527027482848
+      TOTHEPASTAGAINTHREE2_20: 5593487979897586976
+      TOTHEPASTAGAINTHREE2_21: -6631621559746278804
+      TOTHEPASTAGAINTHREE2_22: -4297744815314460269
+      TOTHEPASTAGAINTHREE2_23: -2855220352765089995
+      TOTHEPASTAGAINTHREE2_24: -3936726369899655695
+      TOTHEPASTAGAINTHREE2_25: 5531296084775602445
+      TOTHEPASTAGAINTHREE2_26: -1986515355801219257
+      TOTHEPASTAGAINTHREE2_27: -5495761228788622245
+      TOTHEPASTAGAINTHREE2_28: -2940962111336885217
+      TOTHEPASTAGAINTHREE2_29: -528255173754805984
+      TOTHEPASTAGAINTHREE2_3: -466938333571514327
+      TOTHEPASTAGAINTHREE2_30: 8966834120730323348
+      TOTHEPASTAGAINTHREE2_31: 2014115675543261119
+      TOTHEPASTAGAINTHREE2_32: 9015369446881130882
+      TOTHEPASTAGAINTHREE2_33: -474771791606272003
+      TOTHEPASTAGAINTHREE2_34: -3541522534563635269
+      TOTHEPASTAGAINTHREE2_35: 3482105992338190551
+      TOTHEPASTAGAINTHREE2_36: -2508592233325374848
+      TOTHEPASTAGAINTHREE2_37: -2335947462622141737
+      TOTHEPASTAGAINTHREE2_38: 1142335260202349614
+      TOTHEPASTAGAINTHREE2_39: 3256865021135749756
+      TOTHEPASTAGAINTHREE2_4: 3547399609886512362
+      TOTHEPASTAGAINTHREE2_40: -858946848167077186
+      TOTHEPASTAGAINTHREE2_41: -6502040693917528879
+      TOTHEPASTAGAINTHREE2_42: 1674518988580438906
+      TOTHEPASTAGAINTHREE2_43: 3293897993308226642
+      TOTHEPASTAGAINTHREE2_44: -5692150314703275688
+      TOTHEPASTAGAINTHREE2_45: -2189192376212036832
+      TOTHEPASTAGAINTHREE2_46: 6992198214379967192
+      TOTHEPASTAGAINTHREE2_47: -4624718897287676479
+      TOTHEPASTAGAINTHREE2_48: 6176901690042049661
+      TOTHEPASTAGAINTHREE2_49: 22125671276782753
+      TOTHEPASTAGAINTHREE2_5: -58503269563634076
+      TOTHEPASTAGAINTHREE2_50: 6438876272124707726
+      TOTHEPASTAGAINTHREE2_51: -1332939376779237248
+      TOTHEPASTAGAINTHREE2_52: 1338281197525633914
+      TOTHEPASTAGAINTHREE2_53: -5503843949409389386
+      TOTHEPASTAGAINTHREE2_54: -5194899259647879796
+      TOTHEPASTAGAINTHREE2_55: -6784903088412863420
+      TOTHEPASTAGAINTHREE2_56: -6026022461966203818
+      TOTHEPASTAGAINTHREE2_57: 1283246984038278491
+      TOTHEPASTAGAINTHREE2_58: -409585788431048851
+      TOTHEPASTAGAINTHREE2_59: -7131463987570882034
+      TOTHEPASTAGAINTHREE2_6: -3566718659528649827
+      TOTHEPASTAGAINTHREE2_60: -8373890494331069262
+      TOTHEPASTAGAINTHREE2_61: 4362589594523279214
+      TOTHEPASTAGAINTHREE2_62: -1846657597309483706
+      TOTHEPASTAGAINTHREE2_63: -7678421411164630302
+      TOTHEPASTAGAINTHREE2_64: 1626653044549414325
+      TOTHEPASTAGAINTHREE2_65: -654078565111806760
+      TOTHEPASTAGAINTHREE2_66: 8002506630896232179
+      TOTHEPASTAGAINTHREE2_67: 1907570912314877284
+      TOTHEPASTAGAINTHREE2_68: 8462468172007246558
+      TOTHEPASTAGAINTHREE2_69: -635205933574764501
+      TOTHEPASTAGAINTHREE2_7: -4194311924347436569
+      TOTHEPASTAGAINTHREE2_70: 7814597899255374963
+      TOTHEPASTAGAINTHREE2_71: 5284203606643179221
+      TOTHEPASTAGAINTHREE2_72: 3925093561327814256
+      TOTHEPASTAGAINTHREE2_73: -8574790738360436100
+      TOTHEPASTAGAINTHREE2_74: -3840365916601296003
+      TOTHEPASTAGAINTHREE2_75: -8637722652522726515
+      TOTHEPASTAGAINTHREE2_76: 8931383879608572416
+      TOTHEPASTAGAINTHREE2_77: 1647921744902474097
+      TOTHEPASTAGAINTHREE2_78: -7398562938464081004
+      TOTHEPASTAGAINTHREE2_79: -670813939306595552
+      TOTHEPASTAGAINTHREE2_8: 6212033228789588998
+      TOTHEPASTAGAINTHREE2_80: 1631071516203937464
+      TOTHEPASTAGAINTHREE2_81: 4791755490529576504
+      TOTHEPASTAGAINTHREE2_82: -3482125219769627481
+      TOTHEPASTAGAINTHREE2_83: 14959034152996109
+      TOTHEPASTAGAINTHREE2_84: 4039202584430891164
+      TOTHEPASTAGAINTHREE2_85: 9080850740136495659
+      TOTHEPASTAGAINTHREE2_86: 7586280832852588659
+      TOTHEPASTAGAINTHREE2_87: 5770940267537899197
+      TOTHEPASTAGAINTHREE2_88: -6702509911887969871
+      TOTHEPASTAGAINTHREE2_89: 1261308686053906266
+      TOTHEPASTAGAINTHREE2_9: -367959368597233992
+      TOTHEPASTAGAINTHREE2_90: -1104589551909515558
+      TOTHEPASTAGAINTHREE2_91: -3838695214504017540
+      TOTHEPASTAGAINTHREE2_92: 5020469482036377689
+      TOTHEPASTAGAINTHREE2_93: -330774860618989479
+      TOTHEPASTAGAINTHREE2_94: -1693986192615269689
+      TOTHEPASTAGAINTHREE2_95: 4545780403074030924
+      TOTHEPASTAGAINTHREE2_96: -8515633333234568179
+      TOTHEPASTAGAINTHREE2_97: 6479144142659666044
+      TOTHEPASTAGAINTHREE2_98: 144021484599075985
+      TOTHEPASTAGAINTHREE2_99: 1106950800830518054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
